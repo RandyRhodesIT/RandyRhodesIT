@@ -1,14 +1,6 @@
 <h1>Hi, I'm Randy! <br/><a href="https://github.com/TheRhinoDen">IT Enthusiast</a>, <a href="www.linkedin.com/in/randall-m-rhodes">Information Technology Professional</a>
 
-<h2>👨‍💻 Software Development Projects:</h2>
-- <b>PowerShell</b>
-  
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-
-- <b>C# (.NET Desktop Applications)</b>
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+<h2>Projects</h2>
   
 
 <h2>Certifications</h2>
