@@ -1,7 +1,7 @@
 <h1>Hi, I'm Randy! <br/><a href="https://github.com/TheRhinoDen">IT Enthusiast</a>, <a href="www.linkedin.com/in/randall-m-rhodes">Information Technology Professional</a>
 
 <h2>Projects</h2>
-  
+-Python: Password Generator
 
 <h2>Certifications</h2>
 
