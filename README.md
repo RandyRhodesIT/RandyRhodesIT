@@ -8,7 +8,7 @@
 - [CompTIA: Security+](http://verify.comptia.org/)
   Code: F54108CSHJB11D3F
 - [ISC2: Certified in Cybersecurity (CC)](https://cpe.isc2.org/digitalcert)
-- [Coursera: Google Cybersecurity Professional]()
+- [Coursera: Google Cybersecurity Professional](https://www.coursera.org/account/accomplishments/specialization/certificate/LHWDZEC3NGLG)
 - [Coursera: Google IT Support Professional](https://www.coursera.org/account/accomplishments/specialization/certificate/L3ZK94M8D2T8) 
 - Additional Certfications, once BSIT is completed: CompTIA: A+, Network+ / Amazon AWS Cloud Practioner / LPI Linux Essenials / ITIL Foundation
 
