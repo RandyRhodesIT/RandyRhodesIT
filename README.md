@@ -8,7 +8,7 @@
 - [CompTIA: Security+]()
 - [ISC2: Certified in Cybersecurity (CC)]()
 - [Coursera: Google Cybersecurity Professional]()
-- [Coursera: Google IT Support Professional]() 
+- [Coursera: Google IT Support Professional](https://www.coursera.org/account/accomplishments/specialization/certificate/L3ZK94M8D2T8) 
 - Additional Certfications, once BSIT is completed: CompTIA: A+, Network+ / Amazon AWS Cloud Practioner / LPI Linux Essenials / ITIL Foundation
 
 <h2> 🔭 I’m currently working on:</h2>
