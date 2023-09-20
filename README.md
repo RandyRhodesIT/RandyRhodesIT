@@ -1,4 +1,4 @@
-<h1>Hi, I'm Randy! <br/><a href="https://github.com/TheRhinoDen">IT Enthusiast</a>, <a href="www.linkedin.com/in/randall-m-rhodes">Information Technology Professional</a>
+<h1>Hi, I'm Randy! <br/><a href="https://github.com/RandyRhodesIT">IT Enthusiast</a>, <a href="www.linkedin.com/in/randall-m-rhodes">Information Technology Professional</a>
 
 <h2>Projects</h2>
 
