@@ -1,4 +1,4 @@
-<h1>Hi, I'm Randy! <br/><a href="https://github.com/RandyRhodesIT">IT Enthusiast</a>, <a href="www.linkedin.com/in/randall-m-rhodes">Information Technology Professional</a>
+<h1>Hi, I'm Randy! <br/><a href="https://github.com/RandyRhodesIT">IT Enthusiast</a>, <a href="www.linkedin.com/in/randall-m-rhodes">Information Technology Student</a>
 
 <h2>Projects</h2>
 
@@ -15,8 +15,8 @@
 
 <h2> 🔭 I’m currently working on:</h2>
 
--BS IT degree from Western Governers University (Junior yr - 2nd term)
+-BS IT degree from Western Governers University (Senior yr)
 
 <h2>🤔 I’m looking for help with: </h2>
 
--Internship for Winter 2023, Spring 2024, Summer 2024 OR an entry level position.
+-Internship for Spring 2024, Summer 2024, or an entry level position.
